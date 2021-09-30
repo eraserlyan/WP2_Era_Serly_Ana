@@ -6,7 +6,7 @@ class Contoh1 extends BaseController
 	{
  echo "<h1>Perkenalkan</h1>";
  echo"Nama saya Era Serly Ana
- Saya tinggal di daerah Bekasi Timur
+ Saya tinggal di daerah Bekasi 
  olahraga yang saya sukai adalah
  Badminton";
  }
